@@ -1,0 +1,5 @@
+4
+1 Alice_Silva Rua_das_Flores_123 5 0
+2 Bruno_Santos Av_Principal_456 3 0
+3 Clara_Almeida Rua_Secundária_789 0 0
+4 Daniel_Costa Travessa_das_Palmeiras_101 1 0

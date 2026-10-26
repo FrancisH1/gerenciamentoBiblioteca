@@ -1,0 +1,7 @@
+6
+1 O_Senhor_dos_Aneis J.R.R._Tolkien Fantasia disponivel 0 3
+2 1984 George_Orwell Distopia disponivel 2 3
+3 Dom_Quixote Miguel_de_Cervantes Romance disponivel 1 3
+4 A_Revolucao_dos_Bichos George_Orwell Distopia disponivel 0 2
+5 O_Pequeno_Príncipe Antoine_de_Saint-Exupery Infantil disponivel 0 6
+6 Moby_Dick Herman_Melville Aventura disponivel 0 3

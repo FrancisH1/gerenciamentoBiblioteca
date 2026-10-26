@@ -1,0 +1,17 @@
+# Executáveis e arquivos compilados
+biblioteca
+biblioteca.exe
+*.o
+*.out
+
+# IDEs e editores
+.vscode/
+.idea/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# Backups
+*.bak
+*~
